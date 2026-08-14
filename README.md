@@ -94,11 +94,9 @@ programacion-1-ungs/
 Abrí una terminal y ejecutá:
 
 ```bash
-git clone https://github.com/<michaelunite>/programacion-1-ungs.git
+git clone https://github.com/michaelunite/Programacion-1-UNGS.git
 cd programacion-1-ungs
 ```
-
-> Reemplazá `<tu-usuario>` por el usuario/organización real donde publiques el repo en GitHub.
 
 ### 3. Abrir el código Java
 
