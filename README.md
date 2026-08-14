@@ -94,7 +94,7 @@ programacion-1-ungs/
 Abrí una terminal y ejecutá:
 
 ```bash
-git clone https://github.com/<tu-usuario>/programacion-1-ungs.git
+git clone https://github.com/<michaelunite>/programacion-1-ungs.git
 cd programacion-1-ungs
 ```
 
